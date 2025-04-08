@@ -11,6 +11,9 @@ In today’s competitive retail landscape, understanding customer behavior and s
 
 ---
 
+## Sales & Customer Insights Dashboard
+![Image](https://github.com/user-attachments/assets/89d5aee1-1f10-4f2a-8b24-2ef71bfb6f05)
+
 ## 🎯 Key Metrics
 
 - **Total Customers**: 30  
