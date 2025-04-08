@@ -54,12 +54,12 @@ In today’s competitive retail landscape, understanding customer behavior and s
 
 ## 🧰 Tools Used
 
-- Power BI / Tableau
+- Power BI 
 - Excel (for raw data prep)
-- Optional Python scripts for transformation
 
----
 
-## 🗂️ Folder Structure (Recommended)
+
+
+
 
 
